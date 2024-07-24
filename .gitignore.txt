@@ -1,0 +1,19 @@
+# Ignorar archivos de configuración que contienen claves y endpoints
+config.js
+
+# Ignorar archivos generados por el entorno
+node_modules/
+dist/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos del editor
+.vscode/
+.idea/
+
+# Ignorar logs y otros archivos temporales
+*.log
+*.tmp
+*.bak
